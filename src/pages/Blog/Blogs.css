@@ -1,0 +1,34 @@
+.blog {
+  display: flex;
+}
+.bar
+{
+  margin:auto;
+  max-width:300px
+}
+form.bar button:hover {
+  background: #0b7dda;
+}
+* {
+  box-sizing: border-box;
+}
+form.bar input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  
+  
+  background: #f1f1f1;
+}
+
+form.bar button {
+
+  width: 20%;
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+}
